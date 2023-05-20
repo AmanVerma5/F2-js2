@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+    color:white;
+    font-family: sans-serif;
+    padding-left: 5%;
+    padding-top:2%;
+    padding-right: 5%;
+}
+.profession{
+    background-color: black;
+    color:white;
+    font-size: large;
+    padding:15px;
+    margin-bottom: 40px;
+}
+button{
+    margin-top: 40px;
+    font-size: large;
+    padding:15px 47px;
+}
+.item{
+    border:2px solid white;
+    border-radius: 10px;
+    padding:20px;
+    margin-bottom:10px;
+    width:40%;
+}
+.left{
+    padding-left: 20px;
+}
+.right{
+    padding-right: 10px;
+}
+.info{
+    display: flex;
+    justify-content: space-between;
+}
+.filter{
+    margin-bottom: 13%;
+}
+input{
+    background-color: black;
+    border: 1px solid white;
+    line-height: 30px;
+    width:300px;
+    color:white;
+    margin-top: 20px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.new-user{
+    margin-bottom: 40px;
+}
